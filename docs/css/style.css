@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+h1, h2, body {align-content: center;text-align: center; padding-left:100px; padding-right: 100px;}
+h1 {text-decoration: bold; margin: 10px; padding: 10px; font-size: 60px; }
+h1, h2 {font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; text-align: center;}
+h2 {font-size: 30px;}
+body {font: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; align-content: center;}
+main {padding: 200px; padding-top: 50px;}
+body {background-color: lightgray; font-size: 30;}
+body {color: crimson}
+ul {list-style-type: none; margin: 0; padding:0px; font-size: 30; align-content: center; align-text: center;}
+li { height: 70px; Width: 100px; background-color: crimson; padding: 25px; border-color: crimson; text-decoration-color: ivory; margin: 30px; align-content: center; display: inline-grid; text-align: center; filter: drop-shadow(15px 15px 15px #000000); max-height: 75px; text-decoration-style: bold; border-radius: 10px;}
+p {padding: 50px; font-size: 25px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+h2 {text-decoration: bold; margin: 20px; padding: 25px;}
+a {color: white; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+div {float: left; padding: 20px; margin-bottom: 50px;  margin: 15px; border-style: solid; border-width: 10px; border-color: crimson;}
+main {align-content: left;  float: right;}
+img {align-content: center; align-text: center;}
+li:hover {background-color: darkred;}
