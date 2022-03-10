@@ -7,13 +7,13 @@ h2 {font-size: 30px;}
 body {font: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; align-content: center;}
 main {padding: 200px; padding-top: 50px;}
 body {background-color: white; font-size: 30;}
-body {color: red}
+body {color: #dc0c0a}
 ul {list-style-type: none; margin: 0; padding:0px; font-size: 30; align-content: center; align-text: center;}
-li { height: 70px; Width: 100px; background-color: red; padding: 25px; border-color: red; text-decoration-color: white; margin: 30px; align-content: center; display: inline-grid; text-align: center; filter: drop-shadow(15px 15px 15px #000000); max-height: 75px; text-decoration-style: bold; border-radius: 10px;}
+li { height: 70px; Width: 100px; background-color: #dc0c0a; padding: 25px; border-color: #dc0c0a; text-decoration-color: white; margin: 30px; align-content: center; display: inline-grid; text-align: center; filter: drop-shadow(15px 15px 15px #000000); max-height: 75px; text-decoration-style: bold; border-radius: 10px;}
 p {padding: 50px; font-size: 25px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
 h2 {text-decoration: bold; margin: 20px; padding: 25px;}
 a {color: white; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
-div {float: left; padding: 20px; margin-bottom: 50px;  margin: 15px; border-style: solid; border-width: 10px; border-color: red;}
+div {float: left; padding: 20px; margin-bottom: 50px;  margin: 15px; border-style: solid; border-width: 10px; border-color: #dc0c0a;}
 main {align-content: left;  float: right;}
 img {align-content: center; align-text: center;}
 li:hover {background-color: darkred;}
