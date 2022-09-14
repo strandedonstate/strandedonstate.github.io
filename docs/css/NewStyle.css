@@ -1,0 +1,71 @@
+@font-face{
+  src: url('../fonts/CollegiateheavyoutlineMedium-B0yx.ttf');
+  font-family: 'New';
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face{
+  src: url('../fonts/FjallaOne-Regular.ttf');
+  font-family: 'FjallaOne';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@charset "utf-8";
+<--- Home Page Styling / Only File to be styled -->
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: New;
+  font-size: 25px;
+  color: red;
+
+}
+h1{text-align: center;}
+footer{image-orientation: center;}
+h2{text-align: center;}
+
+/* Style the header */
+header {
+  background-color: #FFFFFF;
+  padding: 0px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Style the footer */
+footer {
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  color: red;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+  }
+  .social{
+    color: red;
+    text-decoration: none;
+  }
+  .social:hover{
+    color: pink;
+    text-decoration: none;
+  }
+
+  .link{
+    font-family: New;
+    color: red;
+    text-decoration: none;
+  }
+  .link:hover{
+    color: pink;
+    text-decoration: none;
+  }
