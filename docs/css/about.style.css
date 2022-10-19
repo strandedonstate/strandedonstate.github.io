@@ -37,6 +37,16 @@ padding-bottom: 40px;
 align-self: center;
 }
 
+.column_2 {
+  float: left;
+  width: 33%;
+  padding-left:75px;
+  padding-right: 75px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  align-self: center;
+  }
+
 /* Clearfix (clear floats) */
 .row::after {
 content: "";
